@@ -1,3 +1,3 @@
 <?php
-    $HomeController = 'ProjectName\Controllers\HomeController';
-    $app->get('/', $HomeController.':index');
+
+$app->get('/', 'ProjectName\Controllers\HomeController:index');

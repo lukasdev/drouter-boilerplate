@@ -1,2 +1,3 @@
 <?php
-    include 'routes/home.php';
+
+include 'routes/home.php';

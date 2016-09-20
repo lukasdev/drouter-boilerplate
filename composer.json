@@ -4,6 +4,7 @@
     },
 
     "autoload":{
+    	"files": [],
         "psr-4": {
             "ProjectName\\": "app"
         }
