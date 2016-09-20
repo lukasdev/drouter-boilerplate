@@ -9,11 +9,9 @@
         <h1>Seja bem vindo ao projeto</h1>
 
         <ul>
-        <?php
-            foreach($users as $user){
-        ?>
-            <li><?php echo $user['name'];?></li>
-        <?php }?>
+            <?php foreach ($users as $user) : ?>
+            <li><?php echo $user['name']; ?></li>
+            <?php endforeach ?>
         </ul>
     </body>
 </html>
