@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1f6d0bb19510a34f00370b8e23cd2648",
-    "content-hash": "6f8178bca58b3772a196727b12f997e7",
+    "hash": "e7252492cb5d5647f2c6fa6a074c36ff",
+    "content-hash": "b94d53f818e02c77c00a33040a39e757",
     "packages": [
         {
             "name": "lukasdev/drouter",
-            "version": "2.1.3",
+            "version": "2.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lukasdev/DRouter.git",
-                "reference": "c0a0f8c253ef165599f251b980c1043fceafb252"
+                "reference": "38c15be609e510f9248b7b37474229fff1a8fcf0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lukasdev/DRouter/zipball/c0a0f8c253ef165599f251b980c1043fceafb252",
-                "reference": "c0a0f8c253ef165599f251b980c1043fceafb252",
+                "url": "https://api.github.com/repos/lukasdev/DRouter/zipball/38c15be609e510f9248b7b37474229fff1a8fcf0",
+                "reference": "38c15be609e510f9248b7b37474229fff1a8fcf0",
                 "shasum": ""
             },
             "require": {
@@ -49,7 +49,7 @@
                 "rest",
                 "router"
             ],
-            "time": "2016-09-01 21:39:09"
+            "time": "2016-11-04 15:57:02"
         }
     ],
     "packages-dev": [],

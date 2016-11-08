@@ -1,6 +1,6 @@
 {
     "require": {
-        "lukasdev/drouter": "^2.1"
+        "lukasdev/drouter": "^2.4.1"
     },
 
     "autoload":{
